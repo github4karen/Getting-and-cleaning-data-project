@@ -11,7 +11,7 @@ run_analysis.R contains all the code to perform the analyses described in the 5 
 
 The output of the 5th step is called secTidySet.txt, and uploaded to the project submission site.
 
-The R Script does the following:
+## The R Script does the following:
 
 Download the dataset if it does not already exist in the working directory
 Load the activity and feature info
@@ -22,6 +22,6 @@ Converts the activity and subject columns into factors
 Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 The end result is shown in the file secTidySet.txt.
 
-Additional Information
+## Additional Information
 
 Additional information about the variables, data and transformations are in the CodeBook.MD file.
