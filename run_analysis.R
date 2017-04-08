@@ -3,7 +3,6 @@
 #
 #install.packages("data.table")
 #install.packages("reshape2")
-#install.packages("knitr")
 
 
 if (!require("data.table")) {
